@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.add-input{
+    height: 2rem;
+}
+.add-btn{
+    width: 5rem;
+    height: 2rem;
+}
+.plan-section{
+    border: 2px solid black;
+    padding: 1rem;
+}
+.finished-section{
+    border: 2px solid black;
+    width: 20rem;
+    min-height: 13rem;
+}

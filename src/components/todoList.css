@@ -1,0 +1,15 @@
+.box{
+    border: 2px solid grey;
+    margin: 0.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    width: 15rem;
+    height: 4rem;
+}
+.finish-btn{
+    width: 7rem;
+    height: 2rem;
+    margin-top: 1rem;
+}

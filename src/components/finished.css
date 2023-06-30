@@ -1,0 +1,14 @@
+.box{
+    display: flex;
+    flex-direction: column;
+}
+.btns{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.btns button{
+    width: 3.5rem;
+    height: 1.5rem;
+
+}
